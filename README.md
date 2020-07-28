@@ -1,7 +1,7 @@
 # Maquetado CV 2020
 
 ## Objetivo :dart:
-Maquetar CV de carpeta **CV**
+Maquetar CV que se encuentra ubicada en carpeta **CV**
 
 ## Modelado :memo:
 
