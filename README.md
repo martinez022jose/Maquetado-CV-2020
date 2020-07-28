@@ -5,7 +5,7 @@ Maquetar CV de carpeta **CV**
 
 ## Modelado :memo:
 
-<img height="1800px" width="700px" src="https://github.com/martinez022jose/Blog-Viajes/blob/master/screenShotsReadMe/index.png"/>
+<img height="700px" width="1200px" src="https://github.com/martinez022jose/Maquetado-CV-2020/blob/master/screenShotsReadMe/screenCV.png"/>
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
