@@ -1,7 +1,7 @@
 # Maquetado CV 2020
 
 ## Objetivo :dart:
-Maquetar CV que se encuentra ubicada en carpeta **CV**
+Maquetar CV que se encuentra ubicado en carpeta **CV**. Se busca implementar unicamanete HTML5 y CSS3
 
 ## Modelado :memo:
 
